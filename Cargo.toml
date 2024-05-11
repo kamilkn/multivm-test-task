@@ -1,0 +1,10 @@
+[package]
+name = "myapp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.5"
+dotenv = "0.15.0"
+num_cpus = "1.13"
+anyhow = "1.0"
